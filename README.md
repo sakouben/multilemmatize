@@ -1,2 +1,2 @@
 # multilemmatize
-Lemmatization and frequency tools for multiple languages
+Scraping and lemmatization things for multiple languages
